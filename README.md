@@ -52,16 +52,17 @@ Our client requires an application to systemize and optimize mold allocation and
 
 ![image](https://user-images.githubusercontent.com/92867270/202961812-68a539ba-e3d8-459b-9216-72084c1448c3.png)
 
+___
 ![image](https://user-images.githubusercontent.com/92867270/202961919-7fed3c71-3858-4e7e-97e9-bf123b42bd1b.png)
 
-__
+___
 
 ### 6. Parameter and Variables Definifition
 
 ![image](https://user-images.githubusercontent.com/92867270/202961971-438e101d-cc0d-4320-a223-89c5934b6b30.png)
-
+___
 ![image](https://user-images.githubusercontent.com/92867270/202962164-da443857-30a0-4a36-adf5-5fcbf1e3c2d5.png)
-
+___
 ### 7. Output
 
 As requested by client, the output of the application is 20 day mold loading plan
