@@ -1,12 +1,12 @@
 ## Mold Allocation Project
 
-**1. Objectives of the project**
+### 1. Objectives of the project
 
 Our client requires an application to systemize and optimize mold allocation and OEE including the following:
 + Provide optimized mold allocation and injection planning so that the planning and capacity team better utilizes resources
 + Measure the improvement in terms of OEE for each machine and factory level
 
-**2. Scopes of the project**
+### 2. Scopes of the project
 
 + Conduct activities for production planning improvement
 + Apply algorithm for optimization of mold allocation
@@ -16,13 +16,13 @@ Our client requires an application to systemize and optimize mold allocation and
 + Compare the baseline OEE with OEE after execution of the optimization program
 + Scale up the program to 6 machines with more variables, constraints, and outputs
 
-**3. What in this repository**
+### 3. What in this repository
 
 + Outcome 1: One machine mold loading plan.
 1. Mold loading plan for the following shift.
 2. The mold loading plan should show which mold needs to be loaded on which station, which compound to inject and how many times to inject it.
 
-**4. Production Planning Background**
+### 4. Production Planning Background
 
 + After the Purchase Orders are sent to factory, they will be recorded at client’s ERP collectively. There are internal Purchase Orders which are the sum numbers of IP with the same colors, size, and style. In that internal PO, the production manager will devise into required production quantity and prioritize by the amount and expected time to complete.
 
@@ -40,7 +40,7 @@ Our client requires an application to systemize and optimize mold allocation and
 
 + One station has a pair of mold, right mold, and left mold. There are a total of 8 stations for a machine and the injection machine will go over each of these stations. In case the station is not ready yet, the injection machine would be waiting for a few seconds.
 
-**5. Machine Operation**
+### 5. Machine Operation
 
 + 1 machine has 8 stations
 + 1 station has L mold and R mold
@@ -54,13 +54,15 @@ Our client requires an application to systemize and optimize mold allocation and
 
 ![image](https://user-images.githubusercontent.com/92867270/202961919-7fed3c71-3858-4e7e-97e9-bf123b42bd1b.png)
 
-**6. Parameter and Variables Definifition**
+__
+
+### 6. Parameter and Variables Definifition
 
 ![image](https://user-images.githubusercontent.com/92867270/202961971-438e101d-cc0d-4320-a223-89c5934b6b30.png)
 
 ![image](https://user-images.githubusercontent.com/92867270/202962164-da443857-30a0-4a36-adf5-5fcbf1e3c2d5.png)
 
-**7. Output**
+### 7. Output
 
 As requested by client, the output of the application is 20 day mold loading plan
 		
